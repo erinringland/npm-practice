@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/erinringland/npm-practice/issues"
   },
-  "homepage": "https://github.com/erinringland/npm-practice#readme"
+  "homepage": "https://github.com/erinringland/npm-practice#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dayjs": "^1.9.6",
+    "pluralize": "^8.0.0"
+  }
 }
